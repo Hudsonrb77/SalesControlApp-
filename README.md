@@ -1,9 +1,6 @@
-# SalesControlApp-
-Aplicativo para automatizar controle de vendas pessoais, gerenciamento de clientes e produtos(na conveniência onde trabalho(Arena Ingazeira)), desenvolvido em Kotlin com arquitetura moderna.
-
 # SalesControlApp - Controle de Vendas Pessoal
 
-Aplicativo para controle de vendas pessoais, gerenciamento de clientes e produtos, desenvolvido em Kotlin com arquitetura moderna.
+Aplicativo para automatizar controle de vendas pessoais, gerenciamento de clientes e produtos(na conveniência onde trabalho(Arena Ingazeira)), desenvolvido em Kotlin com arquitetura moderna.
 
 ## 📌 Objetivo do Projeto
 
